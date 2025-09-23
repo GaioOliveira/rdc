@@ -22,4 +22,5 @@ Conectamos todos os hosts ao switch SW1 e passamos a utilizar o modo CLI do swit
 ```switchport access vlan 10```
 10) Definimos que essas portas funcionarão como portas de acesso:
 ```switchport mode access```
+11) 
 
